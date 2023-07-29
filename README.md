@@ -1,6 +1,6 @@
 
 
-## About This Project:
+## About This Project
 
 "Image Finder" is a React-based web application that allows users to search for images using the Pexabay API. This application is built using Material-UI components and Material icons for a clean and modern user interface. The app uses Axios to fetch data from the Pexabay API, providing users with access to several images.
 
@@ -8,7 +8,8 @@ With "Image Finder," users can search for images using keywords to find the perf
 
 This project is a great example of how to build a modern web application using React, Material-UI, and Axios. With its easy-to-use interface and powerful search capabilities, "Image Finder" is the perfect tool for designers, developers, and content creators looking for high-quality images to enhance their work.
 
-## Live URL: [Click Here](https://react-image-finder-3br.pages.dev/)
+## Live URL 
+[Click Here](https://react-image-finder-3br.pages.dev/)
 
 ## Getting Started with Create React App
 
